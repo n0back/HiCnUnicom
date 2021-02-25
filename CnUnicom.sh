@@ -357,6 +357,7 @@ function main() {
         hfgoactive
         jifeninfo
         otherinfo
+        freescoregift
         tgbotinfo
         #rm -rf $workdir
     done
